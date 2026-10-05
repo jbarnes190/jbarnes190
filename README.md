@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hello, I'm Jack 👋
 
-<!--
-**jbarnes190/jbarnes190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate student at the
+University of Maryland Global Campus.
 
-Here are some ideas to get you started:
+This profile is where I share my learning journey,
+explore technology, and document the skills and
+knowledge I develop along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Academic Background
+
+**University:** University of Maryland Global Campus  
+**Level:** Undergraduate  
+**Program:** Non-Degree Seeking  
+**Current Course:** BEHS 103 — Technology in Contemporary Society
+
+## 💻 Interests
+
+- Digital technology
+- Technology in modern society
+- Digital skills
+- Online learning
+- Personal development
+- Exploring new tools and technologies
+
+## 📚 Current Focus
+
+I'm currently learning more about the relationship
+between technology and contemporary society while
+building useful digital skills through coursework
+and independent exploration.
+
+## 🎯 Goals
+
+- Strengthen my technology skills
+- Learn through practical experience
+- Explore new areas of technology
+- Build useful projects
+- Document my progress
+
+## 🌱 Learning Journey
+
+Every project and new concept is an opportunity to
+learn something useful and improve.
+
+---
+
+📚 Learn | 💻 Explore | 🚀 Grow
